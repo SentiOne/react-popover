@@ -12,8 +12,9 @@
   "dependencies": {
     "css-vendor": "^0.3.1",
     "debug": "^2.6.8",
-    "lodash.throttle": "^3.0.3",
-    "prop-types": "^15.5.10"
+    "lodash": "^3.0.3",
+    "prop-types": "^15.5.10",
+    "yarn": "^1.16.0"
   },
   "repository": {
     "type": "git",
